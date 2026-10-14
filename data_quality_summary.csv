@@ -1,0 +1,7 @@
+Metric,Value
+Rows in raw file,445
+Columns in raw file,12
+Duplicate observations removed,3
+Missing cells before imputation (after duplicate removal),12
+Missing cells after cleaning,0
+Rows in cleaned file,442

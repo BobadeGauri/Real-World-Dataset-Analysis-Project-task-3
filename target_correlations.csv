@@ -1,0 +1,11 @@
+feature,correlation_with_target
+bmi,0.5879
+s5,0.5659
+bp,0.4446
+s4,0.43
+s3,-0.3948
+s6,0.3825
+s1,0.2102
+age,0.1879
+s2,0.1741
+sex,0.0431
